@@ -1,0 +1,9 @@
+streamlit
+streamlit_pdf_viewer
+boto3
+opensearch-py
+python-dotenv
+unstructured
+pdf2image
+pillow
+requests-aws4auth
