@@ -4,6 +4,11 @@ boto3
 opensearch-py
 python-dotenv
 unstructured
-pdf2image
-pillow
+python-magic
+lxml
+requests
 requests-aws4auth
+pillow
+#pdfminer.six
+#pi_heif
+#"unstructured[all-docs]"
