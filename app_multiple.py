@@ -79,7 +79,6 @@ if not os.path.exists(local_pdf_path) or os.path.getsize(local_pdf_path) == 0:
         st.error(f"S3에서 PDF 파일 다운로드 중 오류 발생: {e}")
         st.stop()
 
-
 # ========================
 # 2. 인덱싱 함수 (텍스트 + 이미지)
 # ========================
