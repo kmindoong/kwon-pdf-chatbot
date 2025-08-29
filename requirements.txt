@@ -9,6 +9,10 @@ lxml
 requests
 requests-aws4auth
 pillow
+PyMuPDF
+#yum install -y tesseract-lang
+pytesseract
+unstructured[all-docs]
 #pdfminer.six
 #pi_heif
 #"unstructured[all-docs]"
